@@ -1,0 +1,19 @@
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#three {
+    font-size: 24px;
+}
+
+#four {
+    font-weight: bold;
+    background-color: rgb(129, 210, 144);
+    font-size: 24px;
+}
+
+.redeven {
+    background-color: rgb(222, 148, 163);
+    font-family: 'Verdana','DejaVu Sans',sans-serif;
+}
